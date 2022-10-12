@@ -1,3 +1,5 @@
+
+<!--
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!" alt="Typing SVG" /></a></div>
 <p align="left">I'm Estefania</p>
 <p align="left">A Full-Stack Software Developer</p>
