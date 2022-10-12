@@ -2,6 +2,10 @@
 
 <div align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Full-Stack+Software+Developer" alt="Typing SVG" /></a></div>
 
+- 💬 You can also call me Tefi
+
+- ⚡ Fun fact: I'm from Argentina!
+
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estefania-sosa-portfolio.netlify.app/)
 
