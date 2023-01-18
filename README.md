@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: I'm from Argentina!
 
-- 🔭 I’m currently learning TypeScript 
+- 🔭 I’m currently studying to get certified in AWS
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estefania-sosa-portfolio.netlify.app/)
