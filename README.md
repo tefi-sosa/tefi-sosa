@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently studying to get certified in AWS
 
+- 😄 Feel free to check my last project [OSSIRA](https://github.com/tefi-sosa/OSSIRA)
+
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estefania-sosa-portfolio.netlify.app/)
 
