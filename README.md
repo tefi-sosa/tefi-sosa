@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: I'm from Argentina!
 
-- 🔭 I’m currently studying to get certified in AWS
+- 🔭 Recently got certified in AWS and now studing Java, Typescript and PHP
 
 - 😄 Feel free to check my last project [OSSIRA](https://github.com/tefi-sosa/OSSIRA)
 
