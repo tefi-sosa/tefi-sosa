@@ -6,12 +6,12 @@
 
 - ⚡ Fun fact: I'm from Argentina!
 
-- 🔭 Recently got certified in AWS and now studing Java, Typescript and PHP
+- 🔭 Recently got certified in AWS and now studing React
 
 - 😄 Feel free to check my last project [OSSIRA](https://github.com/tefi-sosa/OSSIRA)
 
 ## Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estefania-sosa-portfolio.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estefania-sosa.netlify.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estefania-sosa-oberlin/)
 
@@ -19,6 +19,9 @@
 
 ## Skills
 <p align="left">
+	<a backgroundColor="lightgray" href="https://aws.amazon.com/" target="_blank"> 
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="50" height="40"/> 
+	</a>
 	<a backgroundColor="lightgray" href="https://www.w3schools.com/css/" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 	</a>
